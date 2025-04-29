@@ -1,4 +1,5 @@
 # GoogleSheets_Cancer_issue
+
 # 🧬 Cancer Survival Analysis – Google Sheets Case Study
 
 **By:** Patcharin Perngkam  
@@ -171,14 +172,6 @@ CreatedHistogram of Survival Time using
 | `cancer issue.csv` | Raw dataset                      |
 | `README.md`        | This documentation               |
 | `/images`          | Screenshots of charts and tables |
-
----
-
-## 🚀 Next Steps (Optional)
-
-- Calculate recurrence **rate (%)** per group using formulas.
-- Export to **Excel, R, or Python** for advanced modeling.
-- Build a dashboard in **Looker Studio** or **Tableau** for interactivity.
 
 ---
 

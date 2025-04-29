@@ -91,7 +91,7 @@ Calculated average age and BMI using pivot tables.
 
 ### ✅ Tumor Size vs Survival Time
 
-CreatedHistogram of Survival Time using
+Created Histogram of Survival Time using
 `TumorSize` and `SurvivalMonths`.
 
 - Chart: `TumorSize` and `SurvivalMonths`
